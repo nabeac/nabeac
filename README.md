@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**nabeac/nabeac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+I'm a backend developer focused on **Python**, **Django**, and **Django REST Framework**.  
+I enjoy building systems, working on robotics/IoT, and experimenting with CNC & 3D-printing technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- Python • Django • DRF  
+- PostgreSQL • Docker  
+- IoT • Raspberry Pi • CNC/3D Printing
+
+### 🚀 What I’m working on
+- Backend engineering projects  
+- IoT experiments  
+- Building startup-level platforms and tools
+
+### 📫 Contact
+Feel free to reach out via GitHub Issues or DM on social platforms.
+
