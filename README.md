@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-# Hi there 👋
 
 I'm a backend developer focused on **Python**, **Django**, and **Django REST Framework**.  
 I enjoy building systems, working on robotics/IoT, and experimenting with CNC & 3D-printing technologies.
